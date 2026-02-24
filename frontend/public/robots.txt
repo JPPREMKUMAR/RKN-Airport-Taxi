@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Block backend / API routes
+Disallow: /api/
+Disallow: /api/*
+
+Disallow: /api
+Disallow: /login
+Disallow: /register
+
+# Allow all SEO taxi pages
+Allow: /bangalore-airport-to-
+Allow: /-to-bangalore-airport
+Allow: /airport-taxi
+Allow: /bangalore-to-
+
+# Sitemap
+Sitemap: https://www.rknairporttaxi.com/sitemap.xml

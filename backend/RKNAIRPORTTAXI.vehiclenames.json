@@ -1,0 +1,296 @@
+[{
+  "_id": {
+    "$oid": "6915a5a7e51337b994b419f0"
+  },
+  "vehicleName": "TOYOTA FORTUNER LEGENDER",
+  "categoryId": "LUXURY_CARS",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a5b4e51337b994b419f4"
+  },
+  "vehicleName": "BMW M5 SERIES",
+  "categoryId": "LUXURY_CARS",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a5bee51337b994b419f8"
+  },
+  "vehicleName": "Audi q8",
+  "categoryId": "LUXURY_CARS",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a5fde51337b994b41a02"
+  },
+  "vehicleName": "MERCEDES E CLASS",
+  "categoryId": "LUXURY_CARS",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a6a1e51337b994b41a1d"
+  },
+  "vehicleName": "SUV",
+  "categoryId": "INNOVA_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a6a7e51337b994b41a21"
+  },
+  "vehicleName": "INNOVA",
+  "categoryId": "INNOVA_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a6bce51337b994b41a25"
+  },
+  "vehicleName": "7 Seat with Carrier Vehicle",
+  "categoryId": "INNOVA_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a6cce51337b994b41a2a"
+  },
+  "vehicleName": "Hatchback",
+  "categoryId": "OUTSTATION_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a6d4e51337b994b41a2e"
+  },
+  "vehicleName": "Sedan",
+  "categoryId": "OUTSTATION_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a6dce51337b994b41a32"
+  },
+  "vehicleName": "Prime Sedan",
+  "categoryId": "OUTSTATION_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a6efe51337b994b41a3a"
+  },
+  "vehicleName": "INNOVA CRYSTA",
+  "categoryId": "INNOVA_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a72ae51337b994b41a4a"
+  },
+  "vehicleName": "Hatchback",
+  "categoryId": "LOCAL_PACKAGE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a735e51337b994b41a4e"
+  },
+  "vehicleName": "Sedan",
+  "categoryId": "LOCAL_PACKAGE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a73de51337b994b41a52"
+  },
+  "vehicleName": "Prime Sedan",
+  "categoryId": "LOCAL_PACKAGE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a74ee51337b994b41a56"
+  },
+  "vehicleName": "SUV ERTIGA",
+  "categoryId": "LOCAL_PACKAGE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a755e51337b994b41a5a"
+  },
+  "vehicleName": "INNOVA",
+  "categoryId": "LOCAL_PACKAGE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a75ee51337b994b41a5e"
+  },
+  "vehicleName": "INNOVA CRYSTA",
+  "categoryId": "LOCAL_PACKAGE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a76ee51337b994b41a62"
+  },
+  "vehicleName": "TEMPO TRAVELLER",
+  "categoryId": "LOCAL_PACKAGE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a882e51337b994b41a97"
+  },
+  "vehicleName": "Sudan",
+  "categoryId": "INNOVA_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694dfd45d399f68437cba3dc"
+  },
+  "vehicleName": "Hatchback",
+  "categoryId": "AIRPORT_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694dfd4dd399f68437cba3df"
+  },
+  "vehicleName": "Sedan",
+  "categoryId": "AIRPORT_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694dfd58d399f68437cba3e2"
+  },
+  "vehicleName": "Prime Sedan",
+  "categoryId": "AIRPORT_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694dfd65d399f68437cba3e7"
+  },
+  "vehicleName": "SUV ERTIGA",
+  "categoryId": "AIRPORT_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694dfd6bd399f68437cba3ea"
+  },
+  "vehicleName": "INNOVA",
+  "categoryId": "AIRPORT_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694dfd75d399f68437cba3ed"
+  },
+  "vehicleName": "INNOVA CRYSTA",
+  "categoryId": "AIRPORT_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694dfd81d399f68437cba3f0"
+  },
+  "vehicleName": "INNOVA HYCROSS",
+  "categoryId": "AIRPORT_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694dfd99d399f68437cba3f3"
+  },
+  "vehicleName": "TOYOTA FURTUNER (LUXURY VEHICLE )",
+  "categoryId": "AIRPORT_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694dfda6d399f68437cba3f6"
+  },
+  "vehicleName": "TEMPO TRAVELLER",
+  "categoryId": "AIRPORT_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694e1537ce124a85c1809643"
+  },
+  "vehicleName": "SUV ERITIGA",
+  "categoryId": "OUTSTATION_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694e1588ce124a85c1809657"
+  },
+  "vehicleName": "INNOVA",
+  "categoryId": "OUTSTATION_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694e1592ce124a85c180965c"
+  },
+  "vehicleName": "INNOVA CRYSTA",
+  "categoryId": "OUTSTATION_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694e15d6ce124a85c180966b"
+  },
+  "vehicleName": "TEMPO TRAVELLER",
+  "categoryId": "OUTSTATION_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694e29c1ce390c636db4d75c"
+  },
+  "vehicleName": "TEMPO TRAVELLER A/C",
+  "categoryId": "OUTSTATION_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694e2aa2ce390c636db4d785"
+  },
+  "vehicleName": "21 SEATED MINI BUS",
+  "categoryId": "OUTSTATION_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6986e4f12447c3fb20e9d9c3"
+  },
+  "vehicleName": "INNOVA HYCROSS",
+  "categoryId": "OUTSTATION_TAXI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6986e4f82447c3fb20e9d9c7"
+  },
+  "vehicleName": "INNOVA HYCROSS",
+  "categoryId": "LOCAL_PACKAGE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6986ea9f2447c3fb20e9da2f"
+  },
+  "vehicleName": "INNOVA HYCROSS",
+  "categoryId": "LOCAL_PACKAGE",
+  "__v": 0
+}]

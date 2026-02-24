@@ -1,0 +1,23 @@
+<svg version="1.1" id="RKN_Airport_Taxi_Logo" 
+     xmlns="http://www.w3.org/2000/svg" 
+     xmlns:xlink="http://www.w3.org/1999/xlink" 
+     x="0px" y="0px" 
+     viewBox="0 0 200 90" 
+     xml:space="preserve"
+     style="enable-background:new 0 0 200 90;">
+    
+    <style type="text/css">
+        .st0{fill:#FFC107;} /* Approximate bright yellow from the image */
+    </style>
+    
+    <g id="Logo_Elements">
+
+        <path id="Airplane" class="st0" d="M [complex vector data for airplane goes here] Z"/>
+
+        <path id="RKN_Text" class="st0" d="M [complex vector data for RKN text goes here] Z"/>
+
+        <path id="Airport_Taxi_Text" class="st0" d="M [complex vector data for Airport Taxi text goes here] Z"/>
+
+    </g>
+    
+</svg>

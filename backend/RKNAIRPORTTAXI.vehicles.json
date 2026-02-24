@@ -1,0 +1,622 @@
+[{
+  "_id": {
+    "$oid": "694dfeefd399f68437cba400"
+  },
+  "vehicle": "Hatchback",
+  "bookingType": "AIRPORT TAXI",
+  "price": 799,
+  "imageUrl": "https://res.cloudinary.com/dokbp23jt/image/upload/v1766719214/cab-booking-images/ieaptuixrx7xlkuenh7w.png",
+  "status": true,
+  "capacity": 4,
+  "bookingTypeId": "AIRPORT_TAXI",
+  "createdAt": {
+    "$date": "2025-12-26T03:20:15.181Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T11:09:41.910Z"
+  },
+  "__v": 0,
+  "ac": "0",
+  "driverBata": "0"
+},
+{
+  "_id": {
+    "$oid": "694e01d1970b3117d24891b4"
+  },
+  "vehicle": "Sedan",
+  "bookingType": "AIRPORT TAXI",
+  "price": 899,
+  "imageUrl": "https://res.cloudinary.com/dokbp23jt/image/upload/v1766719952/cab-booking-images/vlp5oig8wym5ueroxgrd.png",
+  "status": true,
+  "capacity": 4,
+  "bookingTypeId": "AIRPORT_TAXI",
+  "createdAt": {
+    "$date": "2025-12-26T03:32:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-26T03:32:33.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694e04b5d4b65520ed92d0bc"
+  },
+  "vehicle": "Prime Sedan",
+  "bookingType": "AIRPORT TAXI",
+  "price": 1099,
+  "imageUrl": "https://res.cloudinary.com/dchkwygu9/image/upload/v1766818999/prime_sedan_xtuh4t.jpg",
+  "status": true,
+  "capacity": 4,
+  "bookingTypeId": "AIRPORT_TAXI",
+  "createdAt": {
+    "$date": "2025-12-26T03:44:53.592Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T11:26:39.754Z"
+  },
+  "__v": 0,
+  "ac": "0",
+  "driverBata": "0"
+},
+{
+  "_id": {
+    "$oid": "694e099229dd5d858efa5f54"
+  },
+  "vehicle": "SUV ERTIGA",
+  "bookingType": "AIRPORT TAXI",
+  "price": 1499,
+  "imageUrl": "https://res.cloudinary.com/dchkwygu9/image/upload/v1766819131/suv_eritiga__rumiyn_ua3qae.jpg",
+  "status": true,
+  "capacity": 6,
+  "bookingTypeId": "AIRPORT_TAXI",
+  "createdAt": {
+    "$date": "2025-12-26T04:05:38.109Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-26T04:05:38.109Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694e09b129dd5d858efa5f5a"
+  },
+  "vehicle": "INNOVA",
+  "bookingType": "AIRPORT TAXI",
+  "price": 1799,
+  "imageUrl": "https://res.cloudinary.com/dokbp23jt/image/upload/v1766721968/cab-booking-images/lfzk9spwizstecwzr9jx.png",
+  "status": true,
+  "capacity": 7,
+  "bookingTypeId": "AIRPORT_TAXI",
+  "createdAt": {
+    "$date": "2025-12-26T04:06:09.291Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-26T04:06:09.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694e09e129dd5d858efa5f60"
+  },
+  "vehicle": "INNOVA CRYSTA",
+  "bookingType": "AIRPORT TAXI",
+  "price": 1999,
+  "imageUrl": "https://res.cloudinary.com/dokbp23jt/image/upload/v1766722017/cab-booking-images/zs4dertgpeiojhht2qeo.jpg",
+  "status": true,
+  "capacity": 7,
+  "bookingTypeId": "AIRPORT_TAXI",
+  "createdAt": {
+    "$date": "2025-12-26T04:06:57.986Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-26T04:06:57.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694e27615cd671da48260c7f"
+  },
+  "vehicle": "Hatchback",
+  "bookingType": "OUTSTATION",
+  "price": 0,
+  "imageUrl": "https://res.cloudinary.com/dokbp23jt/image/upload/v1766729566/cab-booking-images/moh8hyip9odode5degzv.png",
+  "status": true,
+  "capacity": 3,
+  "bookingTypeId": "OUTSTATION_TAXI",
+  "ac": "11",
+  "driverBata": "300",
+  "createdAt": {
+    "$date": "2025-12-26T06:12:49.233Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-26T06:12:49.233Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694e288bce390c636db4d725"
+  },
+  "vehicle": "Sedan",
+  "bookingType": "OUTSTATION",
+  "price": 0,
+  "imageUrl": "https://res.cloudinary.com/dokbp23jt/image/upload/v1766729864/cab-booking-images/emzvl0za7iy2nbkhazdw.png",
+  "status": true,
+  "capacity": 4,
+  "bookingTypeId": "OUTSTATION_TAXI",
+  "ac": "12",
+  "driverBata": "300",
+  "createdAt": {
+    "$date": "2025-12-26T06:17:47.598Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-26T06:19:23.776Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694e28bcce390c636db4d72d"
+  },
+  "vehicle": "Prime Sedan",
+  "bookingType": "OUTSTATION",
+  "price": 0,
+  "imageUrl": "https://res.cloudinary.com/dchkwygu9/image/upload/v1766818999/prime_sedan_xtuh4t.jpg",
+  "status": true,
+  "capacity": 4,
+  "bookingTypeId": "OUTSTATION_TAXI",
+  "ac": "14",
+  "driverBata": "400",
+  "createdAt": {
+    "$date": "2025-12-26T06:18:36.633Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-31T11:24:22.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694e2914ce390c636db4d73d"
+  },
+  "vehicle": "SUV ERITIGA",
+  "bookingType": "OUTSTATION",
+  "price": 0,
+  "imageUrl": "https://res.cloudinary.com/dokbp23jt/image/upload/v1766730002/cab-booking-images/jrl05ukenhpz70h5gz6i.jpg",
+  "status": true,
+  "capacity": 6,
+  "bookingTypeId": "OUTSTATION_TAXI",
+  "ac": "16",
+  "driverBata": "400",
+  "createdAt": {
+    "$date": "2025-12-26T06:20:04.911Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T11:51:10.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694e2942ce390c636db4d745"
+  },
+  "vehicle": "INNOVA",
+  "bookingType": "OUTSTATION",
+  "price": 0,
+  "imageUrl": "https://res.cloudinary.com/dokbp23jt/image/upload/v1766730047/cab-booking-images/hifwfrjhg1zrpskivqz5.png",
+  "status": true,
+  "capacity": 7,
+  "bookingTypeId": "OUTSTATION_TAXI",
+  "ac": "17",
+  "driverBata": "400",
+  "createdAt": {
+    "$date": "2025-12-26T06:20:50.583Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-26T06:20:50.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694e2973ce390c636db4d74d"
+  },
+  "vehicle": "INNOVA CRYSTA",
+  "bookingType": "OUTSTATION",
+  "price": 0,
+  "imageUrl": "https://res.cloudinary.com/dokbp23jt/image/upload/v1766730096/cab-booking-images/zoxii5ma9b8sr3tkxccu.png",
+  "status": true,
+  "capacity": 7,
+  "bookingTypeId": "OUTSTATION_TAXI",
+  "ac": "19",
+  "driverBata": "400",
+  "createdAt": {
+    "$date": "2025-12-26T06:21:39.681Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-03T09:03:22.563Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694e330cce390c636db4d7f5"
+  },
+  "vehicle": "BMW M5 SERIES",
+  "bookingType": "LUXURY CARS",
+  "price": 0,
+  "imageUrl": "https://res.cloudinary.com/dokbp23jt/image/upload/v1766732553/cab-booking-images/an13laqrakn2atfjc74k.jpg",
+  "status": true,
+  "capacity": 4,
+  "bookingTypeId": "LUXURY_CARS",
+  "ac": "130",
+  "driverBata": "0",
+  "createdAt": {
+    "$date": "2025-12-26T07:02:36.481Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-26T07:02:36.481Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694e333cce390c636db4d7fd"
+  },
+  "vehicle": "MERCEDES E CLASS",
+  "bookingType": "LUXURY CARS",
+  "price": 0,
+  "imageUrl": "https://res.cloudinary.com/dokbp23jt/image/upload/v1766732600/cab-booking-images/j3nmmbh7t5wizgw8jdwc.jpg",
+  "status": true,
+  "capacity": 4,
+  "bookingTypeId": "LUXURY_CARS",
+  "ac": "130",
+  "driverBata": "0",
+  "createdAt": {
+    "$date": "2025-12-26T07:03:24.256Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-26T07:03:24.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694e3375ce390c636db4d805"
+  },
+  "vehicle": "TOYOTA FORTUNER LEGENDER",
+  "bookingType": "LUXURY CARS",
+  "price": 0,
+  "imageUrl": "https://res.cloudinary.com/dokbp23jt/image/upload/v1766732659/cab-booking-images/x2l4i33wzadxtfhtczb9.jpg",
+  "status": true,
+  "capacity": 6,
+  "bookingTypeId": "LUXURY_CARS",
+  "ac": "50",
+  "driverBata": "0",
+  "createdAt": {
+    "$date": "2025-12-26T07:04:21.906Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-26T07:43:24.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694e339bce390c636db4d80d"
+  },
+  "vehicle": "Audi q8",
+  "bookingType": "LUXURY CARS",
+  "price": 0,
+  "imageUrl": "https://res.cloudinary.com/dokbp23jt/image/upload/v1766732696/cab-booking-images/ozlgschkbmwf366yrxus.jpg",
+  "status": true,
+  "capacity": 4,
+  "bookingTypeId": "LUXURY_CARS",
+  "ac": "130",
+  "driverBata": "0",
+  "createdAt": {
+    "$date": "2025-12-26T07:04:59.381Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-26T07:04:59.381Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695f962d4c4eb2e4387c240b"
+  },
+  "vehicle": "Hatchback",
+  "bookingType": "LOCAL PACKAGE",
+  "price": 1799,
+  "imageUrl": "https://res.cloudinary.com/dchkwygu9/image/upload/v1767872045/cab-booking-images/cfmcckeafvbd5x19wgvf.webp",
+  "status": true,
+  "capacity": 4,
+  "bookingTypeId": "LOCAL_PACKAGE",
+  "ac": "0",
+  "driverBata": "0",
+  "createdAt": {
+    "$date": "2026-01-08T11:34:05.789Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T11:34:05.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695f964d4c4eb2e4387c2413"
+  },
+  "vehicle": "Sedan",
+  "bookingType": "LOCAL PACKAGE",
+  "price": 2099,
+  "imageUrl": "https://res.cloudinary.com/dchkwygu9/image/upload/v1767872076/cab-booking-images/pjecyzvewroory5rwqyj.png",
+  "status": true,
+  "capacity": 4,
+  "bookingTypeId": "LOCAL_PACKAGE",
+  "ac": "0",
+  "driverBata": "0",
+  "createdAt": {
+    "$date": "2026-01-08T11:34:37.232Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T11:34:37.232Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695f96644c4eb2e4387c241b"
+  },
+  "vehicle": "Prime Sedan",
+  "bookingType": "LOCAL PACKAGE",
+  "price": 2599,
+  "imageUrl": "https://res.cloudinary.com/dchkwygu9/image/upload/v1767872100/cab-booking-images/m8hfw0sh4ov2njfrptd4.jpg",
+  "status": true,
+  "capacity": 4,
+  "bookingTypeId": "LOCAL_PACKAGE",
+  "ac": "0",
+  "driverBata": "0",
+  "createdAt": {
+    "$date": "2026-01-08T11:35:00.557Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T11:35:00.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695f96a04c4eb2e4387c2426"
+  },
+  "vehicle": "SUV ERTIGA",
+  "bookingType": "LOCAL PACKAGE",
+  "price": 2999,
+  "imageUrl": "https://res.cloudinary.com/dchkwygu9/image/upload/v1767872160/cab-booking-images/bgj0owgninapzeq74ozm.jpg",
+  "status": true,
+  "capacity": 6,
+  "bookingTypeId": "LOCAL_PACKAGE",
+  "ac": "0",
+  "driverBata": "0",
+  "createdAt": {
+    "$date": "2026-01-08T11:36:00.738Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T11:36:00.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695f96bc4c4eb2e4387c242e"
+  },
+  "vehicle": "INNOVA",
+  "bookingType": "LOCAL PACKAGE",
+  "price": 3499,
+  "imageUrl": "https://res.cloudinary.com/dchkwygu9/image/upload/v1767872187/cab-booking-images/iey37dujggplav8duoe2.png",
+  "status": true,
+  "capacity": 7,
+  "bookingTypeId": "LOCAL_PACKAGE",
+  "ac": "0",
+  "driverBata": "0",
+  "createdAt": {
+    "$date": "2026-01-08T11:36:28.268Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T11:36:28.268Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695f96d94c4eb2e4387c2436"
+  },
+  "vehicle": "INNOVA CRYSTA",
+  "bookingType": "LOCAL PACKAGE",
+  "price": 3999,
+  "imageUrl": "https://res.cloudinary.com/dchkwygu9/image/upload/v1767872217/cab-booking-images/ialytorlxikhdy9pvk5w.png",
+  "status": true,
+  "capacity": 7,
+  "bookingTypeId": "LOCAL_PACKAGE",
+  "ac": "0",
+  "driverBata": "0",
+  "createdAt": {
+    "$date": "2026-01-08T11:36:57.547Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T11:36:57.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6986e4102447c3fb20e9d9ac"
+  },
+  "vehicle": "INNOVA HYCROSS",
+  "bookingType": "AIRPORT TAXI",
+  "price": 2299,
+  "imageUrl": "https://res.cloudinary.com/dchkwygu9/image/upload/v1770447886/cab-booking-images/rxd1vlvusrxsfczi4rar.jpg",
+  "status": true,
+  "capacity": 7,
+  "bookingTypeId": "AIRPORT_TAXI",
+  "ac": "0",
+  "driverBata": "0",
+  "createdAt": {
+    "$date": "2026-02-07T07:04:48.926Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T07:04:48.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6986e9062447c3fb20e9da11"
+  },
+  "vehicle": "INNOVA HYCROSS",
+  "bookingType": "OUTSTATION TAXI",
+  "price": 0,
+  "imageUrl": "https://res.cloudinary.com/dchkwygu9/image/upload/v1770449156/cab-booking-images/l2rhnzqspu9u3i0kub3t.jpg",
+  "status": true,
+  "capacity": 7,
+  "bookingTypeId": "OUTSTATION_TAXI",
+  "ac": "24",
+  "driverBata": "400",
+  "createdAt": {
+    "$date": "2026-02-07T07:25:58.870Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T07:28:13.266Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6986eabb2447c3fb20e9da38"
+  },
+  "vehicle": "INNOVA HYCROSS",
+  "bookingType": "LOCAL PACKAGE",
+  "price": 4499,
+  "imageUrl": "https://res.cloudinary.com/dchkwygu9/image/upload/v1770449592/cab-booking-images/socpm1vohtqpftrfnsih.jpg",
+  "status": true,
+  "capacity": 7,
+  "bookingTypeId": "LOCAL_PACKAGE",
+  "ac": "0",
+  "driverBata": "0",
+  "createdAt": {
+    "$date": "2026-02-07T07:33:15.670Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T07:33:15.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698731b58680c81c7fab7908"
+  },
+  "vehicle": "TOYOTA FURTUNER (LUXURY VEHICLE )",
+  "bookingType": "AIRPORT TAXI",
+  "price": 3999,
+  "imageUrl": "https://res.cloudinary.com/dchkwygu9/image/upload/v1770467762/cab-booking-images/blkfsyddmldz8ws6yskj.webp",
+  "status": true,
+  "capacity": 7,
+  "bookingTypeId": "AIRPORT_TAXI",
+  "ac": "0",
+  "driverBata": "0",
+  "createdAt": {
+    "$date": "2026-02-07T12:36:05.373Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T12:36:05.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698731dd8680c81c7fab790f"
+  },
+  "vehicle": "TEMPO TRAVELLER",
+  "bookingType": "OUTSTATION",
+  "price": 4999,
+  "imageUrl": "https://res.cloudinary.com/dchkwygu9/image/upload/v1770467804/cab-booking-images/x8k8f75sdnx94rssr7lu.webp",
+  "status": true,
+  "capacity": 12,
+  "bookingTypeId": "AIRPORT_TAXI",
+  "ac": "0",
+  "driverBata": "0",
+  "createdAt": {
+    "$date": "2026-02-07T12:36:45.980Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T12:36:45.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6987390c4b3a9fdf2cbe9531"
+  },
+  "vehicle": "TEMPO TRAVELLER A/C",
+  "bookingType": "OUTSTATION",
+  "price": 0,
+  "imageUrl": "https://res.cloudinary.com/dchkwygu9/image/upload/v1770469642/cab-booking-images/xgojqyoc4h45e43wadg9.webp",
+  "status": true,
+  "capacity": 12,
+  "bookingTypeId": "OUTSTATION_TAXI",
+  "ac": "12",
+  "driverBata": "500",
+  "createdAt": {
+    "$date": "2026-02-07T13:07:24.381Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T13:07:24.381Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698739634b3a9fdf2cbe9538"
+  },
+  "vehicle": "21 SEATED MINI BUS",
+  "bookingType": "OUTSTATION",
+  "price": 0,
+  "imageUrl": "https://res.cloudinary.com/dchkwygu9/image/upload/v1770469729/cab-booking-images/pqobnglkcs0ao0sq6lcf.webp",
+  "status": true,
+  "capacity": 21,
+  "bookingTypeId": "OUTSTATION_TAXI",
+  "ac": "30",
+  "driverBata": "800",
+  "createdAt": {
+    "$date": "2026-02-07T13:08:51.476Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T13:08:51.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698739e14b3a9fdf2cbe9545"
+  },
+  "vehicle": "TEMPO TRAVELLER",
+  "bookingType": "LOCAL PACKAGE",
+  "price": 4999,
+  "imageUrl": "https://res.cloudinary.com/dchkwygu9/image/upload/v1770469855/cab-booking-images/tc6kj1j8ktwqug29b33r.webp",
+  "status": true,
+  "capacity": 12,
+  "bookingTypeId": "LOCAL_PACKAGE",
+  "ac": "0",
+  "driverBata": "0",
+  "createdAt": {
+    "$date": "2026-02-07T13:10:57.795Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T13:10:57.795Z"
+  },
+  "__v": 0
+}]
