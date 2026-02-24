@@ -103,4 +103,8 @@ EMAIL_PASS=
 ##👨‍💻 Author
 JP Prem Kumar
 MERN Stack Developer
-GitHub: https://github.com/JPPREMKUMAR
+
+🌐 Portfolio: https://jppremkumar.vercel.app/  
+💻 GitHub: https://github.com/JPPREMKUMAR  
+🔗 LinkedIn: https://www.linkedin.com/in/jppremkumar/  
+🧠 LeetCode: https://leetcode.com/u/jppremkumar/
