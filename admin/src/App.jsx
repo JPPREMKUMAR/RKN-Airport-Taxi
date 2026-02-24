@@ -9,7 +9,8 @@ import AllVehicles from "./pages/AllVehicles"
 import VehicleDetails from "./pages/VehicleDetails"
 import Categories from "./pages/Categories"
 import DeleteItem from "./pages/DeleteItem"
-
+import { ToastContainer } from "react-toastify"
+import "react-toastify/dist/ReactToastify.css"
 
 
 const App = () => {
@@ -36,6 +37,7 @@ const App = () => {
 
   return (
     <div>
+      <ToastContainer />
       <MainContextProvider>
 
         <Navbar />

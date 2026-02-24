@@ -6,7 +6,7 @@ import Cookies from "js-cookie"
 import { TailSpin } from "react-loader-spinner"
 import { BiSolidShow } from "react-icons/bi";
 import { BiSolidHide } from "react-icons/bi";
-
+import { toast } from "react-toastify"
 
 
 
@@ -26,7 +26,7 @@ const Login = () => {
         setIsLoading(true)
         event.preventDefault()
 
-        //console.log(adminEmail, adminPassword)
+        // console.log(adminEmail, adminPassword)
         try {
 
 
@@ -43,9 +43,9 @@ const Login = () => {
                 setToken(getToken)
                 Cookies.set("adminToken", getToken, { expires: 1 })
                 setError('')
-
-
                 checking = "Success"
+                toast.success("Login Succcessful")
+
 
             }
             setIsLoading(false)
@@ -54,7 +54,8 @@ const Login = () => {
         } catch (e) {
             //console.log(e)
             //console.log(e.response.data.message)
-            setError(e.response.data.message)
+            // setError(e.response.data.message)
+            toast.error(e.response.data.message)
             setIsLoading(false)
         }
 
