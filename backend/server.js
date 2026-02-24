@@ -15,13 +15,15 @@ import connectCloudinary from "./config/connectCloudinary.js"
 dotenv.config()
 
 const app = express()
+// Middleware 
 app.use(express.json())
 
 
 
 app.use(cors({
-    origin: "*",
-
+    origin: "*", // allow all browsers
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    allowedHeaders: ["Content-Type", "Authorization"],
 }));
 
 

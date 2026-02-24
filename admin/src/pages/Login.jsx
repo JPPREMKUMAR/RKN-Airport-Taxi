@@ -14,8 +14,8 @@ import { toast } from "react-toastify"
 const Login = () => {
 
     const { backendUrl, token, setToken, navigate } = useContext(MainContext)
-    const [adminEmail, setAdminEmail] = useState('jppremkumar012@gmail.com')
-    const [adminPassword, setAdminPassword] = useState('jppremkumar012@gmail.com')
+    const [adminEmail, setAdminEmail] = useState('')
+    const [adminPassword, setAdminPassword] = useState('')
     const [error, setError] = useState('')
     const [isLoading, setIsLoading] = useState(false)
 
@@ -31,7 +31,7 @@ const Login = () => {
 
 
             const response = await axios.post(backendUrl + "/api/admin/login", { adminEmail, adminPassword })
-            console.log(response.data)
+            console.log(response.data, "ERROR")
 
             let checking;
 
@@ -43,9 +43,10 @@ const Login = () => {
                 setToken(getToken)
                 Cookies.set("adminToken", getToken, { expires: 1 })
                 setError('')
-                checking = "Success"
-                toast.success("Login Succcessful")
 
+
+                checking = "Success"
+                toast.success("Login Successful")
 
             }
             setIsLoading(false)
@@ -54,7 +55,7 @@ const Login = () => {
         } catch (e) {
             //console.log(e)
             //console.log(e.response.data.message)
-            // setError(e.response.data.message)
+            //setError(e.response.data.message)
             toast.error(e.response.data.message)
             setIsLoading(false)
         }

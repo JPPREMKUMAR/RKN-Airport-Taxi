@@ -18,7 +18,10 @@ export const adminLogin = async (req, res) => {
 
     try {
         const { adminEmail, adminPassword } = req.body
-        //console.log(adminEmail, adminPassword)
+        console.log(process.env.ADMIN_EMAIL, "env Admin ")
+        console.log(process.env.ADMIN_PASSWORD, "env admin password")
+        console.log(adminEmail)
+        console.log(adminPassword)
 
         if (adminEmail === process.env.ADMIN_EMAIL && adminPassword === process.env.ADMIN_PASSWORD) {
             const payload = {
@@ -30,6 +33,7 @@ export const adminLogin = async (req, res) => {
 
 
         } else {
+
             return res.status(401).json({
                 success: false,
                 message: "Invalid Credientials"
@@ -39,6 +43,7 @@ export const adminLogin = async (req, res) => {
 
     } catch (e) {
 
+        console.log(e)
         return res.status(401).json({
             success: false,
             message: "Invalid Credientials"

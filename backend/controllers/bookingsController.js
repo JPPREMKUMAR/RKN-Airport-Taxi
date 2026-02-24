@@ -1,10 +1,11 @@
-import validator from "validator"
 import Bookings from "../models/Bookings.js"
 import mailToUser from "../middlewares/mailToUser.js"
 import mailToAdmin from "../middlewares/mailToAdmin.js"
 import sendMailBrevo from "../middlewares/sendMailBrevo.js"
 import sendWhatsAppBookingConfirmation from "../middlewares/sendWhatsAppBookingConfirmation.js"
 import sendAdminMailBrevo from "../middlewares/sendAdminMailBrevo.js"
+import validator from "validator"
+
 const generateBookingId = async () => {
     const allBooking = await Bookings.find({})
     //console.log(allBooking.length)
@@ -59,6 +60,9 @@ export const bookingUser = async (req, res) => {
             driverBata
         })
         await newBooking.save()
+
+
+
 
         const details = {
             name,
