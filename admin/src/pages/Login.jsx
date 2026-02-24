@@ -26,12 +26,12 @@ const Login = () => {
         setIsLoading(true)
         event.preventDefault()
 
-        // console.log(adminEmail, adminPassword)
+        console.log(adminEmail, adminPassword)
         try {
 
 
             const response = await axios.post(backendUrl + "/api/admin/login", { adminEmail, adminPassword })
-            //console.log(response.data, "ERROR")
+            console.log(response.data)
 
             let checking;
 
