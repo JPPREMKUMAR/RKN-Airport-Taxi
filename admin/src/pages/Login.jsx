@@ -14,8 +14,8 @@ import { toast } from "react-toastify"
 const Login = () => {
 
     const { backendUrl, token, setToken, navigate } = useContext(MainContext)
-    const [adminEmail, setAdminEmail] = useState('')
-    const [adminPassword, setAdminPassword] = useState('')
+    const [adminEmail, setAdminEmail] = useState('jppremkumar012@gmail.com')
+    const [adminPassword, setAdminPassword] = useState('jppremkumar012@gmail.com')
     const [error, setError] = useState('')
     const [isLoading, setIsLoading] = useState(false)
 
